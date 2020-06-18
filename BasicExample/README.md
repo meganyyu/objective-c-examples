@@ -1,5 +1,5 @@
-#BasicExample
-##Topics Covered
+# BasicExample
+## Topics Covered
 - scope
 - enumeration
 - functions
